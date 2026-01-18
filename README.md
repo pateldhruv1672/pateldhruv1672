@@ -144,62 +144,7 @@ class DhruvPatel(SorcererSupreme, Avenger):
 
 ---
 
-### 🟣 THE MIND STONE — Pinecone Semantic Search Engine
-> *"With great vectors comes great searchability"* — Uncle Ben's ML Wisdom
 
-<table>
-<tr>
-<td width="50%">
-
-<a href="https://github.com/pateldhruv1672/Pinecone-Search-Engine">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=pateldhruv1672&repo=Pinecone-Search-Engine&theme=radical&hide_border=true" />
-</a>
-
-</td>
-<td width="50%">
-
-**🪄 Magical Abilities:**
-- 🔮 End-to-end Semantic Search Pipeline
-- 🐍 SentenceTransformers Embedding Spells
-- 🌲 Pinecone Vector DB Enchantments
-- ⚙️ Apache Airflow Orchestration
-
-**Tech Incantations:** `Python` `Pinecone` `Airflow` `Docker`
-
-</td>
-</tr>
-</table>
-
----
-
-### 🟢 THE TIME STONE — Stock Price Forecasting & Analytics
-> *"Dormammu, I've come to predict your stock prices"* — Dr. Data Strange
-
-<table>
-<tr>
-<td width="50%">
-
-**⏰ Temporal Powers:**
-- 📊 ETL with Apache Airflow
-- ❄️ Snowflake Data Warehousing
-- 🔄 dbt Transformations
-- 🤖 Snowflake ML Forecasting (14-day prophecies)
-- 📈 Moving Averages & Volatility Analysis
-
-**Tech Spellbook:** `Airflow` `Snowflake` `dbt` `Python`
-
-</td>
-<td width="50%">
-
-<a href="https://github.com/pateldhruv1672/Stock-Price-Forecasting-Analysis-dbt-airflow">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=pateldhruv1672&repo=Stock-Price-Forecasting-Analysis-dbt-airflow&theme=radical&hide_border=true" />
-</a>
-
-</td>
-</tr>
-</table>
-
----
 
 ### 🟡 THE SOUL STONE — THE LAST DEGREE (College ROI Intelligence)
 > *"Is this degree worth it?"* — Every student, ever
@@ -253,6 +198,64 @@ class DhruvPatel(SorcererSupreme, Avenger):
     🚗💥 → 📸 → 🔍 → 📞 → 📅
     Damage  Scan  Find  Call  Book!
 ```
+
+</td>
+</tr>
+</table>
+
+---
+### 🟣 THE MIND STONE — Pinecone Semantic Search Engine
+> *"With great vectors comes great searchability"* — Uncle Ben's ML Wisdom
+
+<table>
+<tr>
+<td width="50%">
+
+<a href="https://github.com/pateldhruv1672/Pinecone-Search-Engine">
+<img width="1024" height="1024" alt="image" src="https://github.com/user-attachments/assets/df1fc994-cccd-460c-953c-fd01155c4772" />
+
+</a>
+
+</td>
+<td width="50%">
+
+**🪄 Magical Abilities:**
+- 🔮 End-to-end Semantic Search Pipeline
+- 🐍 SentenceTransformers Embedding Spells
+- 🌲 Pinecone Vector DB Enchantments
+- ⚙️ Apache Airflow Orchestration
+
+**Tech Incantations:** `Python` `Pinecone` `Airflow` `Docker`
+
+</td>
+</tr>
+</table>
+
+---
+
+### 🟢 THE TIME STONE — Stock Price Forecasting & Analytics
+> *"Dormammu, I've come to predict your stock prices"* — Dr. Data Strange
+
+<table>
+<tr>
+<td width="50%">
+
+**⏰ Temporal Powers:**
+- 📊 ETL with Apache Airflow
+- ❄️ Snowflake Data Warehousing
+- 🔄 dbt Transformations
+- 🤖 Snowflake ML Forecasting (14-day prophecies)
+- 📈 Moving Averages & Volatility Analysis
+
+**Tech Spellbook:** `Airflow` `Snowflake` `dbt` `Python`
+
+</td>
+<td width="50%">
+
+<a href="https://github.com/pateldhruv1672/Stock-Price-Forecasting-Analysis-dbt-airflow">
+ <img width="1498" height="928" alt="image" src="https://github.com/user-attachments/assets/a19c960c-9351-4ab4-8cf5-5cab2c1f865e" />
+
+</a>
 
 </td>
 </tr>
