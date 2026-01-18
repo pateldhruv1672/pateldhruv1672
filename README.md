@@ -6,11 +6,11 @@
 </p>
 
 <!-- LIGHTNING & SHIELD DOODLES -->
-<p align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/213910845-af37a709-8995-40d6-be59-724526e3c3d7.gif" width="80"/>
-  <img src="https://user-images.githubusercontent.com/74038190/216122041-518ac897-8d92-4c6b-9b3f-ca01dcaf38ee.png" width="80"/>
-  <img src="https://user-images.githubusercontent.com/74038190/213910845-af37a709-8995-40d6-be59-724526e3c3d7.gif" width="80"/>
-</p>
+<!p align="center">
+  <!img src="https://user-images.githubusercontent.com/74038190/213910845-af37a709-8995-40d6-be59-724526e3c3d7.gif" width="80"/>
+  <!img src="https://user-images.githubusercontent.com/74038190/216122041-518ac897-8d92-4c6b-9b3f-ca01dcaf38ee.png" width="80"/>
+  <!img src="https://user-images.githubusercontent.com/74038190/213910845-af37a709-8995-40d6-be59-724526e3c3d7.gif" width="80"/>
+</!p>
 
 <!-- MARAUDER'S MAP BADGE SECTION -->
 <p align="center">
@@ -27,8 +27,8 @@
 
 <!-- ANIMATED TYPING -->
 <p align="center">
-  <a href="https://readme-typing-svg.demolab.com">
-    <img src="https://readme-typing-svg.demolab.com?font=Cinzel&weight=700&size=24&duration=3000&pause=1000&color=FFD700&center=true&vCenter=true&multiline=true&width=800&height=100&lines=%22I+solemnly+swear+that+I+am+up+to+building+good+AI+systems%22;🧙+Ex-Bain+%7C+Ex-Samsung+%7C+Bay+Area+Wizard+🧙" alt="Typing SVG" />
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Cinzel&weight=700&size=24&duration=3000&pause=1000&color=FFD700&center=true&vCenter=true&multiline=true&width=800&height=100&lines=%22I+solemnly+swear+that+I+am+up+to+building+good+AI+systems%22;%F0%9F%A7%99+Ex-Bain+%7C+Ex-Samsung+%7C+Bay+Area+Wizard+%F0%9F%A7%99" alt="Typing SVG" />
   </a>
 </p>
 
@@ -315,13 +315,13 @@ class DhruvPatel(SorcererSupreme, Avenger):
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=pateldhruv1672&show_icons=true&theme=radical&hide_border=true&bg_color=0d1117&title_color=FFD700&icon_color=FFD700&text_color=ffffff" height="180"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pateldhruv1672&layout=compact&theme=radical&hide_border=true&bg_color=0d1117&title_color=FFD700&text_color=ffffff" height="180"/>
+  <img src="https://github-readme-stats-pateldhruv1672.vercel.app/api?username=pateldhruv1672&show_icons=true&theme=radical&hide_border=true&bg_color=0d1117&title_color=FFD700&icon_color=FFD700&text_color=ffffff" height="180"/>
+  <img src="https://github-readme-stats-pateldhruv1672.vercel.app/api/top-langs/?username=pateldhruv1672&layout=compact&theme=radical&hide_border=true&bg_color=0d1117&title_color=FFD700&text_color=ffffff" height="180"/>
 </p>
 
 <p align="center">
   <a href="https://git.io/streak-stats">
-    <img src="https://streak-stats.demolab.com?user=pateldhruv1672&theme=radical&hide_border=true&background=0D1117&ring=FFD700&fire=FFD700&currStreakLabel=FFD700" height="200" />
+    <img src="https://github-readme-streak-stats.herokuapp.com?user=pateldhruv1672&theme=radical&hide_border=true&background=0D1117&ring=FFD700&fire=FFD700&currStreakLabel=FFD700" height="200" />
   </a>
 </p>
 
@@ -366,7 +366,7 @@ class DhruvPatel(SorcererSupreme, Avenger):
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Cinzel&weight=700&size=18&duration=4000&pause=1000&color=FFD700&center=true&vCenter=true&width=500&lines=%22Mischief+Managed.%22+🪄;%22I+am+Iron+Man.%22+⚡;%22Excelsior!%22+🦸" alt="Footer Typing" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Cinzel&weight=700&size=18&duration=4000&pause=1000&color=FFD700&center=true&vCenter=true&width=500&lines=%22Mischief+Managed.%22+%F0%9F%AA%84;%22I+am+Iron+Man.%22+%E2%9A%A1;%22Excelsior!%22+%F0%9F%A6%B8" alt="Footer Typing" />
 </p>
 
 <!-- 
