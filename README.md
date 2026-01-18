@@ -310,10 +310,7 @@ class DhruvPatel(SorcererSupreme, Avenger):
   <img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="400"/>
 </p>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=pateldhruv1672&show_icons=true&theme=radical&hide_border=true&bg_color=0d1117&title_color=FFD700&icon_color=FFD700&text_color=ffffff&cache_seconds=1800" height="180"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pateldhruv1672&layout=compact&theme=radical&hide_border=true&bg_color=0d1117&title_color=FFD700&text_color=ffffff&cache_seconds=1800" height="180"/>
-</p>
+
 
 <p align="center">
   <a href="https://git.io/streak-stats">
