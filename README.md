@@ -2,7 +2,7 @@
 
 <!-- EPIC HERO BANNER WITH LIGHTNING & SHIELD -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=200&text=%20Dhruv%20Patel%20fontSize=60&fontAlignY=35&desc=The%20Sorcerer%20Supreme%20of%20AI%20%7C%20Wielder%20of%20the%20Infinity%20Data%20Stones&descAlignY=55&animation=fadeIn&color=gradient&customColorList=0,2,2,5,30" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=200&text=%20Dhruv%20Patel%20&fontSize=60&fontAlignY=35&desc=The%20Sorcerer%20Supreme%20of%20AI%20%7C%20Wielder%20of%20the%20Infinity%20Data%20Stones&descAlignY=55&animation=fadeIn&color=gradient&customColorList=0,2,2,5,30" />
 </p>
 
 
