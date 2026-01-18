@@ -46,10 +46,16 @@
 
 <p align="left">
   <a href="https://github.com/pateldhruv1672/THE-LAST-DEGREE">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=pateldhruv1672&repo=THE-LAST-DEGREE" />
+    <img width="1512" height="863" alt="image" src="https://github.com/user-attachments/assets/d7a78023-648b-4d00-9bb7-6f53623fd86b" />
+    <img width="1512" height="859" alt="image" src="https://github.com/user-attachments/assets/259c306d-f0ae-4add-8b6b-2d8dabaad07a" />
+
+  
+
   </a>
-  <a href="https://github.com/pateldhruv1672/Final-Year-Project-Diabetic-Retinopathy">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=pateldhruv1672&repo=Final-Year-Project-Diabetic-Retinopathy" />
+  <a href="https://github.com/pateldhruv1672/auto-quote">
+    <!img src="https://github-readme-stats.vercel.app/api/pin/?username=pateldhruv1672&repo=Final-Year-Project-Diabetic-Retinopathy" />
+    <img width="1512" height="855" alt="image" src="https://github.com/user-attachments/assets/f24a3915-1a3c-4763-b03b-316555e09b21" />
+
   </a>
 </p>
 
