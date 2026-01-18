@@ -9,11 +9,8 @@
 
 <!-- MARAUDER'S MAP BADGE SECTION -->
 <p align="center">
-  <img src="https://img.shields.io/badge/⚡_STATUS-MANAGING_MISSCHIEF-gold?style=for-the-badge&labelColor=black" alt="Status"/>
+  <a href="https://www.youtube.com/@MissChiefYT/"><img src="https://img.shields.io/badge/⚡_STATUS-MANAGING_MISSCHIEF-gold?style=for-the-badge&labelColor=black" alt="Status"/></a>
   <img src="https://komarev.com/ghpvc/?username=pateldhruv1672&style=for-the-badge&color=blueviolet&label=MUGGLES+WELCOMED" alt="Profile Views"/>
-</p>
-
-<p align="center">
   <a href="https://www.linkedin.com/in/dhruvpatel16/"><img src="https://img.shields.io/badge/LinkedIn-Avengers_HQ-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
   <a href="mailto:dhruvkumarkamleshbhai.patel@sjsu.edu"><img src="https://img.shields.io/badge/Owl_Post-Send_Message-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
 </p>
