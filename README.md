@@ -10,7 +10,6 @@
 <!-- MARAUDER'S MAP BADGE SECTION -->
 <p align="center">
   <img src="https://img.shields.io/badge/⚡_STATUS-MANAGING_MISCHIEF-gold?style=for-the-badge&labelColor=black" alt="Status"/>
-  <img src="https://img.shields.io/badge/🦁_HOUSE-GRYFFINDOR-ae0001?style=for-the-badge&labelColor=eeba30" alt="House"/>
   <img src="https://img.shields.io/badge/🛡️_TEAM-AVENGERS-blue?style=for-the-badge&labelColor=red" alt="Avengers"/>
   <img src="https://komarev.com/ghpvc/?username=pateldhruv1672&style=for-the-badge&color=blueviolet&label=MUGGLES+WELCOMED" alt="Profile Views"/>
 </p>
