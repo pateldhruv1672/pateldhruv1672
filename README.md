@@ -312,11 +312,6 @@ class DhruvPatel(SorcererSupreme, Avenger):
 
 
 
-<p align="center">
-  <a href="https://git.io/streak-stats">
-    <img src="https://streak-stats.demolab.com?user=pateldhruv1672&theme=radical&hide_border=true&background=0D1117&ring=FFD700&fire=FFD700&currStreakLabel=FFD700&cache_seconds=1800" height="200" />
-  </a>
-</p>
 
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=pateldhruv1672&bg_color=0d1117&color=FFD700&line=FFD700&point=ffffff&area=true&hide_border=true" />
@@ -359,14 +354,3 @@ class DhruvPatel(SorcererSupreme, Avenger):
   <img src="https://readme-typing-svg.herokuapp.com?font=Cinzel&weight=700&size=18&duration=4000&pause=1000&color=FFD700&center=true&vCenter=true&width=500&lines=%22Mischief+Managed.%22+%F0%9F%AA%84;%22I+am+Iron+Man.%22+%E2%9A%A1;%22Excelsior!%22+%F0%9F%A6%B8" alt="Footer Typing" />
 </p>
 
-<!-- 
-   _____ _____  __   __ ______ ______ _____ _   _ _____   ____  _____  
-  / ____|  __ \ \ \ / /|  ____|  ____|_   _| \ | |  __ \ / __ \|  __ \ 
- | |  __| |__) | \ V / | |__  | |__    | | |  \| | |  | | |  | | |__) |
- | | |_ |  _  /   > <  |  __| |  __|   | | | . ` | |  | | |  | |  _  / 
- | |__| | | \ \  / . \ | |    | |     _| |_| |\  | |__| | |__| | | \ \ 
-  \_____|_|  \_\/_/ \_\|_|    |_|    |_____|_| \_|_____/ \____/|_|  \_\
-                                                      
-  "It takes a great deal of bravery to stand up to our enemies, 
-   but just as much to stand up to our friends." — Albus Dumbledore
--->
