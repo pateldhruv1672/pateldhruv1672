@@ -27,13 +27,18 @@ I am a graduate researcher in the **Robotics & Digital Twin Lab at San José Sta
 class DhruvPatel(Researcher, Engineer):
     """Robot learning, from simulation to hardware."""
 
-    role       = "Graduate Researcher, Robotics & Digital Twin Lab, San José State University"
-    degree     = "M.S. Applied Data Science"
-    experience = ["Bain & Company, Software Engineer II", "Samsung R&D Institute India, Software Engineer"]
-
-    focus      = ["robot learning", "VLA fine-tuning", "multi-robot agents", "sim-to-real evaluation"]
-    robots     = ["Unitree Go2", "UFactory xArm 7", "Unitree G1 (sim)", "SO-101 (sim)"]
-    stack      = ["Isaac Sim / Isaac Lab", "ROS 2", "PyTorch", "LeRobot", "vLLM", "LangGraph"]
+    role = "Graduate Researcher, Robotics & Digital Twin Lab @ SJSU"
+    degree = "M.S. Applied Data Science"
+    experience = [
+        "Bain & Company · Software Engineer II",
+        "Samsung R&D Institute India · Software Engineer",
+    ]
+    focus = [
+        "robot learning", "VLA fine-tuning",
+        "multi-robot agents", "sim-to-real evaluation",
+    ]
+    robots = ["Unitree Go2", "xArm 7", "Unitree G1 (sim)", "SO-101 (sim)"]
+    stack = ["Isaac Sim", "Isaac Lab", "ROS 2", "PyTorch", "LeRobot", "vLLM"]
 
     def principle(self) -> str:
         return "Report what was measured, including the negative results."
