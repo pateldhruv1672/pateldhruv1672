@@ -119,9 +119,11 @@ Not yet a reliable insertion controller; the model cards keep the negative resul
 An MCP server and terminal copilot that builds and runs scenes in Isaac Sim, Isaac Lab, ROS 2, Gazebo and MuJoCo, then checks the result (physics stability, renders, reward curves, the live ROS graph) and repairs what broke. Works from Claude Code, Codex, Cursor, VS Code or ChatGPT.
 
 ```text
-you   > Build a kitchen with a Unitree G1 standing at the table, utensils on it, and check the physics
-agent > imports the G1 URDF, tunes drives, places SimReady assets on the tabletop, runs 3 s of physics,
-        captures a frame, reports "83 bodies stable, nothing off the table"
+you   > Build a kitchen with a Unitree G1 standing at the table,
+        utensils on it, and check the physics
+agent > imports the G1 URDF, tunes drives, places SimReady assets on the
+        tabletop, runs 3 s of physics, captures a frame, reports
+        "83 bodies stable, nothing off the table"
 ```
 
 ---
