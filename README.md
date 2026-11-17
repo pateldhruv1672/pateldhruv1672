@@ -23,26 +23,14 @@
 
 I am a graduate researcher in the **Robotics & Digital Twin Lab at San José State University** (M.S. Applied Data Science). My work sits where robot learning, simulation and agentic AI meet: building the environments, datasets and policies that let robots do useful multi-step tasks, and measuring honestly how well they do them. Before graduate school I shipped production retrieval and ML systems at **Bain & Company** and distributed data services at **Samsung Research**.
 
-```python
-class DhruvPatel(Researcher, Engineer):
-    """Robot learning, from simulation to hardware."""
-
-    role = "Graduate Researcher, Robotics & Digital Twin Lab @ SJSU"
-    degree = "M.S. Applied Data Science"
-    experience = [
-        "Bain & Company · Software Engineer II",
-        "Samsung R&D Institute India · Software Engineer",
-    ]
-    focus = [
-        "robot learning", "VLA fine-tuning",
-        "multi-robot agents", "sim-to-real evaluation",
-    ]
-    robots = ["Unitree Go2", "xArm 7", "Unitree G1 (sim)", "SO-101 (sim)"]
-    stack = ["Isaac Sim", "Isaac Lab", "ROS 2", "PyTorch", "LeRobot", "vLLM"]
-
-    def principle(self) -> str:
-        return "Report what was measured, including the negative results."
-```
+| | |
+|---|---|
+| **Current role** | Graduate Researcher, Robotics & Digital Twin Lab, San José State University |
+| **Education** | M.S. Applied Data Science, San José State University |
+| **Research focus** | Robot learning, vision-language-action fine-tuning, multi-robot agents, sim-to-real evaluation |
+| **Robot platforms** | Unitree Go2, UFactory xArm 7, Unitree G1 (simulation), SO-101 (simulation) |
+| **Core tools** | Isaac Sim, Isaac Lab, ROS 2, PyTorch, LeRobot, vLLM |
+| **Previous experience** | Software Engineer II, Bain & Company · Software Engineer, Samsung R&D Institute India |
 
 ---
 
