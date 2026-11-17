@@ -1,5 +1,9 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&height=120&color=0:0f172a,100:1e3a5f&text=Dhruv%20Patel&fontColor=ffffff&fontSize=48&fontAlignY=42&desc=Robotics%20%26%20Applied%20AI%20Research%20Engineer&descAlignY=74&descSize=17" alt="Dhruv Patel" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="assets/banner-dark.svg"/>
+    <source media="(prefers-color-scheme: light)" srcset="assets/banner-light.svg"/>
+    <img src="assets/banner-light.svg" width="100%" alt="Dhruv Patel, Robotics and Applied AI Research Engineer"/>
+  </picture>
 </p>
 
 <p align="center">
@@ -11,7 +15,10 @@
 </p>
 
 <p align="center">
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=16&duration=3200&pause=900&color=1E3A5F&center=true&vCenter=true&width=720&lines=Robot+learning+in+simulation+%E2%86%92+hardware;Multi-robot+agents+with+shared+memory;Evidence+first%3A+every+number+is+measured" alt="Typing SVG" /></a>
+  <a href="https://git.io/typing-svg"><picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=16&duration=3200&pause=900&color=79C0FF&center=true&vCenter=true&width=720&lines=Robot+learning+in+simulation+%E2%86%92+hardware;Multi-robot+agents+with+shared+memory;Evidence+first%3A+every+number+is+measured"/>
+    <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=16&duration=3200&pause=900&color=1E3A5F&center=true&vCenter=true&width=720&lines=Robot+learning+in+simulation+%E2%86%92+hardware;Multi-robot+agents+with+shared+memory;Evidence+first%3A+every+number+is+measured" alt="Robot learning in simulation to hardware; multi-robot agents with shared memory; evidence first"/>
+  </picture></a>
 </p>
 
 I am a graduate researcher in the **Robotics & Digital Twin Lab at San José State University** (M.S. Applied Data Science). My work sits where robot learning, simulation and agentic AI meet: building the environments, datasets and policies that let robots do useful multi-step tasks, and measuring honestly how well they do them. Before graduate school I shipped production retrieval and ML systems at **Bain & Company** and distributed data services at **Samsung Research**.
@@ -451,7 +458,10 @@ Video walkthroughs of the lab work are on the [portfolio](https://pateldhruv1672
 **AI / ML**
 
 <p>
-  <img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow,docker,kubernetes,aws,gcp&theme=light" alt="AI and ML"/>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=python,pytorch,tensorflow,docker,kubernetes,aws,gcp&theme=dark"/>
+    <img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow,docker,kubernetes,aws,gcp&theme=light" alt="AI and ML"/>
+  </picture>
 </p>
 <p>
   <img alt="NVIDIA Isaac" src="https://img.shields.io/badge/NVIDIA_Isaac_Sim_%2F_Lab-76B900?style=flat-square&logo=nvidia&logoColor=white"/>
@@ -465,7 +475,10 @@ Video walkthroughs of the lab work are on the [portfolio](https://pateldhruv1672
 **Data**
 
 <p>
-  <img src="https://skillicons.dev/icons?i=postgres,mongodb,redis,kafka&theme=light" alt="Data"/>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=postgres,mongodb,redis,kafka&theme=dark"/>
+    <img src="https://skillicons.dev/icons?i=postgres,mongodb,redis,kafka&theme=light" alt="Data"/>
+  </picture>
 </p>
 <p>
   <img alt="Snowflake" src="https://img.shields.io/badge/Snowflake-29B5E8?style=flat-square&logo=snowflake&logoColor=white" />
@@ -478,7 +491,10 @@ Video walkthroughs of the lab work are on the [portfolio](https://pateldhruv1672
 **Frontend and tooling**
 
 <p>
-  <img src="https://skillicons.dev/icons?i=react,js,ts,html,css,vite,git,linux,vscode,java,cpp&theme=light" alt="Frontend and tooling"/>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=react,js,ts,html,css,vite,git,linux,vscode,java,cpp&theme=dark"/>
+    <img src="https://skillicons.dev/icons?i=react,js,ts,html,css,vite,git,linux,vscode,java,cpp&theme=light" alt="Frontend and tooling"/>
+  </picture>
 </p>
 
 ---
@@ -486,7 +502,10 @@ Video walkthroughs of the lab work are on the [portfolio](https://pateldhruv1672
 ## Activity
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=pateldhruv1672&bg_color=ffffff&color=1e3a5f&line=1e3a5f&point=0f172a&area=true&hide_border=true" alt="Contribution activity graph"/>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=pateldhruv1672&bg_color=0d1117&color=79c0ff&line=79c0ff&point=f0f6fc&area=true&hide_border=true"/>
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=pateldhruv1672&bg_color=ffffff&color=1e3a5f&line=1e3a5f&point=0f172a&area=true&hide_border=true" alt="Contribution activity graph"/>
+  </picture>
 </p>
 
 <p align="center">
