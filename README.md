@@ -23,14 +23,14 @@
 
 I am a graduate researcher in the **Robotics & Digital Twin Lab at San José State University** (M.S. Applied Data Science). My work sits where robot learning, simulation and agentic AI meet: building the environments, datasets and policies that let robots do useful multi-step tasks, and measuring honestly how well they do them. Before graduate school I shipped production retrieval and ML systems at **Bain & Company** and distributed data services at **Samsung Research**.
 
-| | |
-|---|---|
-| **Current role** | Graduate Researcher, Robotics & Digital Twin Lab, San José State University |
-| **Education** | M.S. Applied Data Science, San José State University |
-| **Research focus** | Robot learning, vision-language-action fine-tuning, multi-robot agents, sim-to-real evaluation |
-| **Robot platforms** | Unitree Go2, UFactory xArm 7, Unitree G1 (simulation), SO-101 (simulation) |
-| **Core tools** | Isaac Sim, Isaac Lab, ROS 2, PyTorch, LeRobot, vLLM |
-| **Previous experience** | Software Engineer II, Bain & Company · Software Engineer, Samsung R&D Institute India |
+<table>
+  <tr><td width="190"><b>Current role</b></td><td>Graduate Researcher, Robotics & Digital Twin Lab, San José State University</td></tr>
+  <tr><td width="190"><b>Education</b></td><td>M.S. Applied Data Science, San José State University</td></tr>
+  <tr><td width="190"><b>Research focus</b></td><td>Robot learning, vision-language-action fine-tuning, multi-robot agents, sim-to-real evaluation</td></tr>
+  <tr><td width="190"><b>Robot platforms</b></td><td>Unitree Go2, UFactory xArm 7, Unitree G1 (simulation), SO-101 (simulation)</td></tr>
+  <tr><td width="190"><b>Core tools</b></td><td>Isaac Sim, Isaac Lab, ROS 2, PyTorch, LeRobot, vLLM</td></tr>
+  <tr><td width="190"><b>Previous experience</b></td><td>Software Engineer II, Bain & Company · Software Engineer, Samsung R&D Institute India</td></tr>
+</table>
 
 ---
 
