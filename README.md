@@ -55,11 +55,6 @@ A bimanual xArm 7 coffee station, a Unitree G1 that carries trays between tables
 </p>
 
 <p align="center">
-  <img src="assets/g1-final-frames-50.jpg" width="92%" alt="Final frame of all 50 recorded episodes: the tray ends in the centre of the dining table every time (1 to 4 cups, randomised)."/>
-  <br/><sub>Final frame of all 50 recorded episodes: the tray ends in the centre of the dining table every time (1 to 4 cups, randomised).</sub>
-</p>
-
-<p align="center">
   <img src="assets/xarm-coffee-serving.jpg" width="92%" alt="Bimanual xArm 7 coffee serving, bird's-eye camera: cup to the outlet, brew, handover to the tray arm."/>
   <br/><sub>Bimanual xArm 7 coffee serving, bird's-eye camera: cup to the outlet, brew, handover to the tray arm.</sub>
 </p>
@@ -88,23 +83,13 @@ A documentation-informed depth-camera surrogate for Isaac Sim 6 and ROS 2 Jazzy,
   <br/><sub>One timestamp-matched frame from every output stream, with the per-pixel error against ground truth.</sub>
 </p>
 
-<p align="center">
-  <img src="assets/d435i-variants.jpg" width="80%" alt="Observation-model variants on the same scene: clean, documented default (97.6% valid, 12.4 mm RMS) and a noisier disparity setting."/>
-  <br/><sub>Observation-model variants on the same scene: clean, documented default (97.6% valid, 12.4 mm RMS) and a noisier disparity setting.</sub>
-</p>
-
 ### SmolVLA for SO-101 peg-in-hole insertion (Isaac Lab) &nbsp;·&nbsp; [model](https://huggingface.co/dhruv1672/smolvla-so101-peg-M6-recovery-vision-trained)
 
 Fine-tuned `lerobot/smolvla_base` on scripted-expert demonstrations of an SO-101 arm inserting a 20 mm peg into a blind hole at 0.5 to 2.5 mm clearance, then studied what actually moves closed-loop success: chunk-relative actions, a trainable vision encoder, recovery demonstrations and serving-time filters.
 
 <p align="center">
-  <img src="assets/so101-peg-insertion.jpg" width="92%" alt="Overhead and wrist cameras from an expert demonstration: approach and insertion."/>
-  <br/><sub>Overhead and wrist cameras from an expert demonstration: approach and insertion.</sub>
-</p>
-
-<p align="center">
-  <img src="assets/so101-peg-insertion-2.jpg" width="92%" alt="A second randomised scene (different floor, block, peg colour and lighting) from the training data."/>
-  <br/><sub>A second randomised scene (different floor, block, peg colour and lighting) from the training data.</sub>
+  <img src="assets/so101-peg-insertion-2.jpg" width="92%" alt="Overhead and wrist cameras from an expert demonstration: the peg is lined up over the hole and inserted. Scenes are randomised (floor, block, peg colour, lighting)."/>
+  <br/><sub>Overhead and wrist cameras from an expert demonstration: the peg is lined up over the hole and inserted. Scenes are randomised (floor, block, peg colour, lighting).</sub>
 </p>
 
 | Policy (development scenes, 80 episodes each) | Success |
@@ -143,33 +128,10 @@ Hackathon build: agents that detect and diagnose data-centre incidents, simulate
   <br/><sub>A rack overheats and the incident opens with no human in the loop.</sub>
 </p>
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/pateldhruv1672/gridpilot/main/docs/media/gif-operator-option-r38.gif" width="92%" alt="The on-call engineer proposes a different rack by phone; the plan is re-simulated and measured against the forecast."/>
-  <br/><sub>The on-call engineer proposes a different rack by phone; the plan is re-simulated and measured against the forecast.</sub>
-</p>
-
-<table>
-<tr>
-<td width="50%" valign="top"><img src="https://raw.githubusercontent.com/pateldhruv1672/gridpilot/main/docs/media/01-control-room.png" alt="3D control room"/><br/><sub>3D control room</sub></td>
-<td width="50%" valign="top"><img src="https://raw.githubusercontent.com/pateldhruv1672/gridpilot/main/docs/media/06-agent-operations.png" alt="Agent operations and traces"/><br/><sub>Agent operations and traces</sub></td>
-</tr>
-</table>
 <table>
 <tr>
 <td width="50%" valign="top"><img src="https://raw.githubusercontent.com/pateldhruv1672/gridpilot/main/docs/media/05-finance-held-invoice.png" alt="Invoice held with cited sources (duplicate PO, segregation of duties)"/><br/><sub>Invoice held with cited sources (duplicate PO, segregation of duties)</sub></td>
-<td width="50%" valign="top"><img src="https://raw.githubusercontent.com/pateldhruv1672/gridpilot/main/docs/media/12-approval-center.png" alt="Approval centre"/><br/><sub>Approval centre</sub></td>
-</tr>
-</table>
-<table>
-<tr>
-<td width="50%" valign="top"><img src="https://raw.githubusercontent.com/pateldhruv1672/gridpilot/main/docs/media/07-twin-reliability.png" alt="Digital-twin reliability view"/><br/><sub>Digital-twin reliability view</sub></td>
-<td width="50%" valign="top"><img src="https://raw.githubusercontent.com/pateldhruv1672/gridpilot/main/docs/media/10-scenarios.png" alt="What-if scenarios"/><br/><sub>What-if scenarios</sub></td>
-</tr>
-</table>
-<table>
-<tr>
-<td width="50%" valign="top"><img src="https://raw.githubusercontent.com/pateldhruv1672/gridpilot/main/docs/media/09-load-gpus.png" alt="GPU load"/><br/><sub>GPU load</sub></td>
-<td width="50%" valign="top"><img src="https://raw.githubusercontent.com/pateldhruv1672/gridpilot/main/docs/media/08-sustainability.png" alt="Sustainability"/><br/><sub>Sustainability</sub></td>
+<td width="50%" valign="top"><img src="https://raw.githubusercontent.com/pateldhruv1672/gridpilot/main/docs/media/06-agent-operations.png" alt="Agent operations and traces"/><br/><sub>Agent operations and traces</sub></td>
 </tr>
 </table>
 
@@ -180,11 +142,6 @@ A config-driven sweep over LoRA rank (4 to 128) and alpha with cosine decay, EMA
 <p align="center">
   <img src="assets/pokemon-lora-base-vs-r64.jpg" width="80%" alt="Same prompt and seed, base model (top) vs final LoRA (bottom). First four in-domain test prompts where neither image was blocked by the safety checker; not hand-picked."/>
   <br/><sub>Same prompt and seed, base model (top) vs final LoRA (bottom). First four in-domain test prompts where neither image was blocked by the safety checker; not hand-picked.</sub>
-</p>
-
-<p align="center">
-  <img src="assets/pokemon-lora-hard-prompts.jpg" width="80%" alt="Harder prompts: two compositional (left) and two out-of-domain (right). The adapter restyles creatures but leaves a tram and a landscape largely unchanged."/>
-  <br/><sub>Harder prompts: two compositional (left) and two out-of-domain (right). The adapter restyles creatures but leaves a tram and a landscape largely unchanged.</sub>
 </p>
 
 <p align="center">
@@ -212,14 +169,8 @@ ROS 2 Jazzy workspace for the wireless Go2: SLAM and localisation, Nav2, semanti
 
 <table>
 <tr>
-<td width="50%" valign="top"><img src="https://raw.githubusercontent.com/pateldhruv1672/pateldhruv1672.github.io/main/assets/images/go2-navigation-poster.jpg" alt="Autonomous navigation pass in the lab"/><br/><sub>Autonomous navigation pass in the lab</sub></td>
+<td width="50%" valign="top"><img src="https://raw.githubusercontent.com/pateldhruv1672/pateldhruv1672.github.io/main/assets/images/go2-motion-poster.jpg" alt="Go2 running motion skills in the lab"/><br/><sub>Go2 running motion skills in the lab</sub></td>
 <td width="50%" valign="top"><img src="assets/go2-semantic-nav-runtime.jpg" alt="Runtime: ROS 2 terminals and the live occupancy map"/><br/><sub>Runtime: ROS 2 terminals and the live occupancy map</sub></td>
-</tr>
-</table>
-<table>
-<tr>
-<td width="50%" valign="top"><img src="https://raw.githubusercontent.com/pateldhruv1672/pateldhruv1672.github.io/main/assets/images/go2-repeat-run-poster.jpg" alt="Repeat traversal of a taught route"/><br/><sub>Repeat traversal of a taught route</sub></td>
-<td width="50%" valign="top"><img src="https://raw.githubusercontent.com/pateldhruv1672/pateldhruv1672.github.io/main/assets/images/go2-motion-poster.jpg" alt="Motion skills"/><br/><sub>Motion skills</sub></td>
 </tr>
 </table>
 
@@ -233,27 +184,15 @@ Browser and Meta Quest teleoperation of the xArm 7 with live RGB, depth, segment
 <td width="50%" valign="top"><img src="https://raw.githubusercontent.com/pateldhruv1672/pateldhruv1672.github.io/main/assets/images/xarm-vr-poster.jpg" alt="VR multiview perception: RGB, depth and segmentation from two viewpoints"/><br/><sub>VR multiview perception: RGB, depth and segmentation from two viewpoints</sub></td>
 </tr>
 </table>
-<table>
-<tr>
-<td width="50%" valign="top"><img src="https://raw.githubusercontent.com/pateldhruv1672/pateldhruv1672.github.io/main/assets/images/xarm-lab.webp" alt="The bimanual xArm 7 station"/><br/><sub>The bimanual xArm 7 station</sub></td>
-<td width="50%" valign="top"><img src="https://raw.githubusercontent.com/pateldhruv1672/pateldhruv1672.github.io/main/assets/images/xarm-isaac-poster.jpg" alt="Teleoperating the simulated arm in Isaac Sim"/><br/><sub>Teleoperating the simulated arm in Isaac Sim</sub></td>
-</tr>
-</table>
 
 ### Sparse 3D memory and digital-twin reconstruction
 
-Reconstructing the lab from camera captures (COLMAP), regenerating it as a sparse voxel scene (fVDB) inside Omniverse, and using the result as spatial memory for the robots.
+Reconstructing the lab from camera captures (COLMAP) and loading the result into Omniverse as spatial memory for the robots.
 
 <table>
 <tr>
 <td width="50%" valign="top"><img src="https://raw.githubusercontent.com/pateldhruv1672/pateldhruv1672.github.io/main/assets/images/colmap-pointcloud.png" alt="COLMAP point cloud of the lab"/><br/><sub>COLMAP point cloud of the lab</sub></td>
-<td width="50%" valign="top"><img src="https://raw.githubusercontent.com/pateldhruv1672/pateldhruv1672.github.io/main/assets/images/fvdb-regeneration-poster.jpg" alt="fVDB scene regeneration in Omniverse"/><br/><sub>fVDB scene regeneration in Omniverse</sub></td>
-</tr>
-</table>
-<table>
-<tr>
-<td width="50%" valign="top"><img src="https://raw.githubusercontent.com/pateldhruv1672/pateldhruv1672.github.io/main/assets/images/pointcloud-poster.jpg" alt="Point-cloud reconstruction and inspection"/><br/><sub>Point-cloud reconstruction and inspection</sub></td>
-<td width="50%" valign="top"><img src="https://raw.githubusercontent.com/pateldhruv1672/pateldhruv1672.github.io/main/assets/images/world3d-lab.webp" alt="Lab map built on the robot"/><br/><sub>Lab map built on the robot</sub></td>
+<td width="50%" valign="top"><img src="https://raw.githubusercontent.com/pateldhruv1672/pateldhruv1672.github.io/main/assets/images/pointcloud-poster.jpg" alt="Reconstructed point cloud loaded in Omniverse"/><br/><sub>Reconstructed point cloud loaded in Omniverse</sub></td>
 </tr>
 </table>
 
@@ -288,14 +227,8 @@ Video walkthroughs of the lab work are on the [portfolio](https://pateldhruv1672
 
 <table>
 <tr>
-<td width="50%" valign="top"><img src="https://raw.githubusercontent.com/pateldhruv1672/pateldhruv1672.github.io/main/assets/images/avian/dashboard-119.webp" alt="Where birds are found, by habitat and species"/><br/><sub>Where birds are found, by habitat and species</sub></td>
 <td width="50%" valign="top"><img src="https://raw.githubusercontent.com/pateldhruv1672/pateldhruv1672.github.io/main/assets/images/avian/dashboard-120.webp" alt="Environmental factors and migration interruptions"/><br/><sub>Environmental factors and migration interruptions</sub></td>
-</tr>
-</table>
-<table>
-<tr>
 <td width="50%" valign="top"><img src="https://raw.githubusercontent.com/pateldhruv1672/pateldhruv1672.github.io/main/assets/images/avian/dashboard-121.webp" alt="Seasonal dynamics and nesting success"/><br/><sub>Seasonal dynamics and nesting success</sub></td>
-<td width="50%" valign="top"><img src="https://raw.githubusercontent.com/pateldhruv1672/pateldhruv1672.github.io/main/assets/images/avian/dashboard-118.webp" alt="Key statistics"/><br/><sub>Key statistics</sub></td>
 </tr>
 </table>
 
@@ -338,20 +271,10 @@ Video walkthroughs of the lab work are on the [portfolio](https://pateldhruv1672
 
 <table>
 <tr>
-<td width="50%" valign="top"><img src="https://raw.githubusercontent.com/pateldhruv1672/pateldhruv1672.github.io/main/assets/images/last-degree-overview.png" alt="Graduate ROI intelligence overview"/><br/><sub>Graduate ROI intelligence overview</sub></td>
-<td width="50%" valign="top"><img src="https://raw.githubusercontent.com/pateldhruv1672/pateldhruv1672.github.io/main/assets/images/last-degree-layoff.png" alt="Layoff risk monitor"/><br/><sub>Layoff risk monitor</sub></td>
-</tr>
-</table>
-<table>
-<tr>
 <td width="50%" valign="top"><img src="https://raw.githubusercontent.com/pateldhruv1672/pateldhruv1672.github.io/main/assets/images/last-degree-architecture.webp" alt="Architecture: Scorecard, WARN, BLS and Adzuna → Airflow → analytics mart → Superset and web app"/><br/><sub>Architecture: Scorecard, WARN, BLS and Adzuna → Airflow → analytics mart → Superset and web app</sub></td>
 <td width="50%" valign="top"><img src="https://raw.githubusercontent.com/pateldhruv1672/pateldhruv1672.github.io/main/assets/images/last-degree-dbt-dag.webp" alt="Airflow DAG running the dbt models"/><br/><sub>Airflow DAG running the dbt models</sub></td>
 </tr>
 </table>
-<p align="center">
-  <img src="https://raw.githubusercontent.com/pateldhruv1672/pateldhruv1672.github.io/main/assets/images/last-degree-lineage.webp" width="80%" alt="dbt lineage from raw sources to the analytics mart."/>
-  <br/><sub>dbt lineage from raw sources to the analytics mart.</sub>
-</p>
 
 | Goal | Approach | Outcome |
 |-----------|--------------|----------|
@@ -366,11 +289,6 @@ Video walkthroughs of the lab work are on the [portfolio](https://pateldhruv1672
     <img width="90%" alt="AutoQuote" src="https://github.com/user-attachments/assets/f24a3915-1a3c-4763-b03b-316555e09b21"/>
   </p>
 </a>
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/pateldhruv1672/pateldhruv1672.github.io/main/assets/images/autoquote-app.png" width="80%" alt="Upload a damage photo, see nearby repair shops on the map."/>
-  <br/><sub>Upload a damage photo, see nearby repair shops on the map.</sub>
-</p>
 
 <table>
 <tr>
@@ -445,11 +363,6 @@ Video walkthroughs of the lab work are on the [portfolio](https://pateldhruv1672
 </td>
 </tr>
 </table>
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/pateldhruv1672/pateldhruv1672.github.io/main/assets/images/stock-forecasting.png" width="70%" alt="Ticker search and price history in the forecasting app."/>
-  <br/><sub>Ticker search and price history in the forecasting app.</sub>
-</p>
 
 ---
 
