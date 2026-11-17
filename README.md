@@ -23,17 +23,20 @@
 
 I am a graduate researcher in the **Robotics & Digital Twin Lab at San José State University** (M.S. Applied Data Science). My work sits where robot learning, simulation and agentic AI meet: building the environments, datasets and policies that let robots do useful multi-step tasks, and measuring honestly how well they do them. Before graduate school I shipped production retrieval and ML systems at **Bain & Company** and distributed data services at **Samsung Research**.
 
-```yaml
-whoami:
-  role:      Graduate Researcher, Robotics & Digital Twin Lab @ SJSU
-  focus:     [robot learning, VLA fine-tuning, multi-robot agents, sim-to-real evaluation]
-  sim:       [Isaac Sim 6, Isaac Lab 3, MuJoCo, Gazebo]
-  robots:    [Unitree Go2, UFactory xArm 7, Unitree G1 (sim), SO-101 (sim)]
-  ml:        [PyTorch, LeRobot, SmolVLA, diffusers + PEFT, vLLM, NVFP4]
-  agents:    [LangGraph, MCP, Neo4j memory, RAG]
-  compute:   [NVIDIA DGX Spark (GB10), RTX 5080 laptop]
-  previously: [Bain & Company (SWE II), Samsung R&D Institute India (SWE)]
-  principle: "report what was measured, including the negative results"
+```python
+class DhruvPatel(Researcher, Engineer):
+    """Robot learning, from simulation to hardware."""
+
+    role       = "Graduate Researcher, Robotics & Digital Twin Lab, San José State University"
+    degree     = "M.S. Applied Data Science"
+    experience = ["Bain & Company, Software Engineer II", "Samsung R&D Institute India, Software Engineer"]
+
+    focus      = ["robot learning", "VLA fine-tuning", "multi-robot agents", "sim-to-real evaluation"]
+    robots     = ["Unitree Go2", "UFactory xArm 7", "Unitree G1 (sim)", "SO-101 (sim)"]
+    stack      = ["Isaac Sim / Isaac Lab", "ROS 2", "PyTorch", "LeRobot", "vLLM", "LangGraph"]
+
+    def principle(self) -> str:
+        return "Report what was measured, including the negative results."
 ```
 
 ---
